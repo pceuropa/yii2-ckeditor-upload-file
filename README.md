@@ -1,9 +1,9 @@
-# yii2-ckeditor
+# Ckeditor for Yii2 Framework with the possibility of upload files
 installation by copy/paste js file without composer
 
 
-## Installation
-In view (e.g _form.php)
+### Installation
+Add the following code to the file view (e.g _form.php)
 
 ```php
 $this->registerJsFile('@web/js/ckeditor/ckeditor.js');
@@ -12,12 +12,12 @@ $this->registerJsFile('@web/js/ckeditor/ckeditor.js');
 ```
 
 
-## Configuration ckeditor
+### Configuration ckeditor
 
 Configuration is file /js/ckeditor/config.js
 
 
-## Configuration upload file ([kcfinder](sunhater/kcfinder))
+### Configuration upload file ([kcfinder](https://github.com/sunhater/kcfinder))
 
 Configuration is file /js/ckeditor/kcfinder/config.php
 

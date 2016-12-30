@@ -1,4 +1,4 @@
-# Ckeditor for Yii2 Framework with the possibility of upload files
+# Ckeditor for Yii2 Framework with upload files
 installation by copy/paste js file without composer
 
 
